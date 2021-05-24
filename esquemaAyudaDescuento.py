@@ -61,9 +61,3 @@ def ejecutarPrograma():
     print('El descuento total que recibirá sobre el valor de la matrícula = ', calcularPorcentajeApoyo(edad, numeroSalarios,puntajePrueba),'%\n')
 
 ejecutarPrograma()
-
-'''
-Realizo el envio de el reto nuemero 2 de la semana 3, 
-no se el porque el sistema de pruebas solo me arroja errores, 
-el codigo propuesto comple con lo requerimiento solicitados
-'''
